@@ -1,0 +1,25 @@
+/* CSS Document */
+body {
+	background-color: #8ABB7A;
+}
+h1 {
+	text-align: center;
+	color: #969696;
+}
+input, select {
+	background-color:#6FC79B;
+}
+form {
+    max-width: 500px;
+	margin: auto;
+	display: block;
+	border: 2px solid #D6B426;
+	box-shadow: 5px 5px;
+	background: #60AD77;
+}
+table {
+	width: 100%;
+}
+table, td {
+  border: 1px solid;
+}
